@@ -52,3 +52,5 @@ persona *insertar_mitad(persona **HEAD, char *n_nombre, char *n_apellido, char *
 <br>
 
 #### For more info about this PLD you can visit
+- For Whiteboard explanation: [https://drive.google.com/drive/folders/1V4Q5WhVxg5tWvB3-gPJt_XPZTorC6AY4?usp=sharing](https://drive.google.com/drive/folders/1V4Q5WhVxg5tWvB3-gPJt_XPZTorC6AY4?usp=sharing)
+- For live code session: [https://drive.google.com/drive/folders/1YiE7oVHdHE0WfapyWpe-eR884jva-mHT?usp=sharing](https://drive.google.com/drive/folders/1YiE7oVHdHE0WfapyWpe-eR884jva-mHT?usp=sharing)
